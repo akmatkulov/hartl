@@ -1,24 +1,9 @@
-# README
+- 👋 Hi, I’m Sovetbek Akmatkulov
+- 👀 I’m interested in Ruby on Rails
+- 🌱 I’m currently learning Ruby, Ruby on Rails, JavaScript, PostgreSQL
+- 📫 How to reach me akmatkulovs991@gmail.com
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<!---
+akmatkulov/akmatkulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
