@@ -10,7 +10,6 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 gem "sprockets-rails"
 
 
-
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
@@ -72,6 +71,10 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
+  gem 'minitest',                 '5.11.3'
+  gem 'minitest-reporters',       '1.3.8'
+  gem 'guard',                    '2.16.2'
+  gem 'guard-minitest',           '2.4.6'
 end
 
 group :production do
