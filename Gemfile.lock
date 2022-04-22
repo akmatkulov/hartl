@@ -191,6 +191,8 @@ GEM
       activesupport (= 7.0.2.3)
       bundler (>= 1.15.0)
       railties (= 7.0.2.3)
+    rails-controller-testing (0.0.3)
+      rails (>= 4.2)
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
@@ -271,6 +273,7 @@ DEPENDENCIES
   pg
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.3)
+  rails-controller-testing (~> 0.0.3)
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
