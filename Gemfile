@@ -15,6 +15,8 @@ gem "bootsnap", require: false
 
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'rails-controller-testing', '~> 0.0.3'
+gem 'bcrypt', '~> 3.1', '>= 3.1.12'
+
 
 group :development, :test do
  
