@@ -41,6 +41,7 @@ group :test do
 end
 
 group :production do
+    gem "puma", "~> 5.0"
     gem "pg" 
 end 
 
